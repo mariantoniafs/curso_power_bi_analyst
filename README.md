@@ -1,4 +1,9 @@
-# Trilha Python DIO by Maria Antonia Santos
+# Bootcamp Santander DIO by Maria Antonia Santos
+
+Neste repositório encontram-se os desafios para o curso de Visualização e Análise de Dados com Power BI.
+
+
+# Sobre quem eu sou
 
 Oie, pode me chamar de Antônia!
 
